@@ -1,8 +1,8 @@
 {
   "rewrites": [
-    {"source": "/admin/", "destination": "https://admin-app.vercel.com/"},
-    {"source": "/admin/:match*", "destination": "https://admin-app.vercel.com/:match*"},
-    {"source": "/", "destination": "https://your-app.vercel.com/"},
-    {"source": "/:match*", "destination": "https://your-app.vercel.com/:match*"}
+    {"source": "/admin/", "destination": "https://openmesh-expert-frontend-7duzynl28-brunolsantos152-gmailcom.vercel.app/"},
+    {"source": "/admin/:match*", "destination": "https://openmesh-expert-frontend-7duzynl28-brunolsantos152-gmailcom.vercel.app/:match*"},
+    {"source": "/", "destination": "https://deeplink-frontend-2-9x5amrxuj-brunolsantos152-gmailcom.vercel.app/"},
+    {"source": "/:match*", "destination": "https://deeplink-frontend-2-9x5amrxuj-brunolsantos152-gmailcom.vercel.app/:match*"}
   ]
 }
