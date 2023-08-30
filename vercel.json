@@ -1,12 +1,14 @@
 {
   "rewrites": [
-    {"source": "/openrd/", "destination": "https://deeplink-frontend-2-dn1fj73w9-l3aprotocol-s-team.vercel.app/tasks/"},
-    {"source": "/openrd/:match*", "destination": "https://deeplink-frontend-2-dn1fj73w9-l3aprotocol-s-team.vercel.app/tasks/:match*"},
-    {"source": "/oen/", "destination": "https://openmesh-expert-frontend.vercel.app/"},
-    {"source": "/oen/:match*", "destination": "https://openmesh-expert-frontend.vercel.app/:match*"},
+    {"source": "/openrd/", "destination": "https://deeplink-frontend-2-prod.vercel.app/"},
+    {"source": "/openrd/:match*", "destination": "https://deeplink-frontend-2-prod.vercel.app/:match*"},
+    {"source": "/oen/", "destination": "https://openmesh-expert-frontend-prod.vercel.app/"},
+    {"source": "/oen/:match*", "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"},
     {"source": "/join/", "destination": "https://openvision.info/"},
     {"source": "/join/:match*", "destination": "https://openvision.info/:match*"},
     {"source": "/", "destination": "https://www.openmesh.network/"},
     {"source": "/:match*", "destination": "https://www.openmesh.network/:match*"}
+    {"source": "/speakers-reg/", "destination": "https://speakers-reg.vercel.app/"},
+    {"source": "/speakers-reg/:match*", "destination": "https://speakers-reg.vercel.app/:match*"},
   ]
 }
