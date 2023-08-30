@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/openrd/",
-      "destination": "https://deeplink-frontend-2-prod.vercel.app/"
+      "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/"
     },
     {
       "source": "/openrd/:match*",
-      "destination": "https://deeplink-frontend-2-prod.vercel.app/:match*"
+      "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/:match*"
     },
     {
       "source": "/oen/",
