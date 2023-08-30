@@ -10,21 +10,16 @@
     },
     {
       "source": "/oen/",
-      "destination": "https://openmesh-expert-frontend-prod.vercel.app/"
+      "destination": "https://www.youtube.com/"
     },
     {
       "source": "/oen/:match*",
-      "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"
+      "destination": "https://www.youtube.com/:match*"
     },
     { "source": "/join/", "destination": "https://openvision.info/" },
     {
       "source": "/join/:match*",
       "destination": "https://openvision.info/:match*"
-    },
-    { "source": "/", "destination": "https://www.openmesh.network/" },
-    {
-      "source": "/:match*",
-      "destination": "https://www.openmesh.network/:match*"
     },
     {
       "source": "/speakers-reg/",
@@ -33,6 +28,11 @@
     {
       "source": "/speakers-reg/:match*",
       "destination": "https://speakers-reg.vercel.app/:match*"
+    },
+    { "source": "/", "destination": "https://www.openmesh.network/" },
+    {
+      "source": "/:match*",
+      "destination": "https://www.openmesh.network/:match*"
     }
   ]
 }
