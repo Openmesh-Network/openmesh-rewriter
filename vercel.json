@@ -10,11 +10,11 @@
     },
     {
       "source": "/oen/",
-      "destination": "https://openmesh-expert-frontend.vercel.app/"
+      "destination": "https://openmesh-expert-frontend.vercel.app/oen/"
     },
     {
       "source": "/oen/:match*",
-      "destination": "https://openmesh-expert-frontend.vercel.app/:match*"
+      "destination": "https://openmesh-expert-frontend.vercel.app/oen/:match*"
     },
     {
       "source": "/join/",
