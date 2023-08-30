@@ -10,11 +10,11 @@
     },
     {
       "source": "/oen/",
-      "destination": "https://www.youtube.com/"
+      "destination": "https://www.weirdband.io/"
     },
     {
       "source": "/oen/:match*",
-      "destination": "https://www.youtube.com/:match*"
+      "destination": "https://www.weirdband.io/:match*"
     },
     { "source": "/join/", "destination": "https://openvision.info/" },
     {
