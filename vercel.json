@@ -10,11 +10,11 @@
     },
     {
       "source": "/oen/",
-      "destination": "https://www.weirdband.io/"
+      "destination": "https://openmesh-expert-frontend.vercel.app/"
     },
     {
       "source": "/oen/:match*",
-      "destination": "https://www.weirdband.io/:match*"
+      "destination": "https://openmesh-expert-frontend.vercel.app/:match*"
     },
     {
       "source": "/join/",
