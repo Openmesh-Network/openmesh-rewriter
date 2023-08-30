@@ -1,8 +1,12 @@
 {
   "rewrites": [
-    {"source": "/admin/", "destination": "https://openmesh-expert-frontend-7duzynl28-brunolsantos152-gmailcom.vercel.app/"},
-    {"source": "/admin/:match*", "destination": "https://openmesh-expert-frontend-7duzynl28-brunolsantos152-gmailcom.vercel.app/:match*"},
-    {"source": "/", "destination": "https://deeplink-frontend-2-9x5amrxuj-brunolsantos152-gmailcom.vercel.app/"},
-    {"source": "/:match*", "destination": "https://deeplink-frontend-2-9x5amrxuj-brunolsantos152-gmailcom.vercel.app/:match*"}
+    {"source": "/openrd/", "destination": "https://deeplink-frontend-2-dn1fj73w9-l3aprotocol-s-team.vercel.app/tasks/"},
+    {"source": "/openrd/:match*", "destination": "https://deeplink-frontend-2-dn1fj73w9-l3aprotocol-s-team.vercel.app/tasks/:match*"},
+    {"source": "/oen/", "destination": "https://openmesh-expert-frontend-prod-3b3icqqdn-l3aprotocol-s-team.vercel.app/"},
+    {"source": "/oen/:match*", "destination": "https://openmesh-expert-frontend-prod-3b3icqqdn-l3aprotocol-s-team.vercel.app/:match*"},
+    {"source": "/join/", "destination": "https://l3a-ecosystem-frontend-8nlouu8wn-l3aprotocol-s-team.vercel.app/"},
+    {"source": "/join/:match*", "destination": "https://l3a-ecosystem-frontend-8nlouu8wn-l3aprotocol-s-team.vercel.app/:match*"},
+    {"source": "/", "destination": "https://www.openmesh.network/"},
+    {"source": "/:match*", "destination": "https://www.openmesh.network/:match*"}
   ]
 }
