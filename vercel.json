@@ -3,7 +3,7 @@
     {"source": "/openrd/", "destination": "https://deeplink-frontend-2-dn1fj73w9-l3aprotocol-s-team.vercel.app/tasks/"},
     {"source": "/openrd/:match*", "destination": "https://deeplink-frontend-2-dn1fj73w9-l3aprotocol-s-team.vercel.app/tasks/:match*"},
     {"source": "/oen/", "destination": "https://openmesh-expert-frontend.vercel.app/"},
-    {"source": "/oen/:match*", "destination": "https://openmesh-expert-frontend.vercel.app//:match*"},
+    {"source": "/oen/:match*", "destination": "https://openmesh-expert-frontend.vercel.app/:match*"},
     {"source": "/join/", "destination": "https://l3a-ecosystem-frontend-8nlouu8wn-l3aprotocol-s-team.vercel.app/"},
     {"source": "/join/:match*", "destination": "https://l3a-ecosystem-frontend-8nlouu8wn-l3aprotocol-s-team.vercel.app/:match*"},
     {"source": "/", "destination": "https://www.openmesh.network/"},
