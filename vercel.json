@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/openrd/",
-      "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/"
+      "destination": "https://deeplink-frontend-2-prod.vercel.app/"
     },
     {
       "source": "/openrd/:match*",
-      "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/:match*"
+      "destination": "https://deeplink-frontend-2-prod.vercel.app/:match*"
     },
     {
       "source": "/oen/",
@@ -18,27 +18,27 @@
     },
     {
       "source": "/join/",
-      "destination": "https://openvision.info/"
+      "destination": "https://l3a-ecosystem-prod.vercel.app/"
     },
     {
       "source": "/join/:match*",
-      "destination": "https://openvision.info/:match*"
+      "destination": "https://l3a-ecosystem-prod.vercel.app/:match*"
     },
     {
-      "source": "/speakers-reg/",
-      "destination": "https://openmesh-expert-frontend-prod.vercel.app/"
+      "source": "/speakers_registration/",
+      "destination": "https://speakers-reg-prod.vercel.app//"
     },
     {
-      "source": "/speakers-reg/:match*",
-      "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"
+      "source": "/speakers_registration/:match*",
+      "destination": "https://speakers-reg-prod.vercel.app/:match*"
     },
     {
       "source": "/",
-      "destination": "https://openrd.l3a.xyz/"
+      "destination": "https://www.openmesh.network/"
     },
     {
       "source": "/:match*",
-      "destination": "https://openrd.l3a.xyz/:match*"
+      "destination": "https://www.openmesh.network/:match*"
     }
   ]
 }
