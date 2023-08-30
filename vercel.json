@@ -3,52 +3,52 @@
     {
       "source": "/openrd/",
       "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/openrd/:match*",
       "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/:match*",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/oen/",
       "destination": "https://www.weirdband.io/",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/oen/:match*",
       "destination": "https://www.weirdband.io/:match*",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/join/",
       "destination": "https://openvision.info/",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/join/:match*",
       "destination": "https://openvision.info/:match*",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/speakers-reg/",
       "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/speakers-reg/:match*",
       "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/:match*",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/",
       "destination": "https://www.openmesh.network/",
-      "permanent": true
+      "framework": "nextjs"
     },
     {
       "source": "/:match*",
       "destination": "https://www.openmesh.network/:match*",
-      "permanent": true
+      "framework": "nextjs"
     }
   ]
 }
