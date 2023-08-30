@@ -2,37 +2,53 @@
   "rewrites": [
     {
       "source": "/openrd/",
-      "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/"
+      "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/",
+      "permanent": true
     },
     {
       "source": "/openrd/:match*",
-      "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/:match*"
+      "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/:match*",
+      "permanent": true
     },
     {
       "source": "/oen/",
-      "destination": "https://www.weirdband.io/"
+      "destination": "https://www.weirdband.io/",
+      "permanent": true
     },
     {
       "source": "/oen/:match*",
-      "destination": "https://www.weirdband.io/:match*"
+      "destination": "https://www.weirdband.io/:match*",
+      "permanent": true
     },
-    { "source": "/join/", "destination": "https://openvision.info/" },
+    {
+      "source": "/join/",
+      "destination": "https://openvision.info/",
+      "permanent": true
+    },
     {
       "source": "/join/:match*",
-      "destination": "https://openvision.info/:match*"
+      "destination": "https://openvision.info/:match*",
+      "permanent": true
     },
     {
       "source": "/speakers-reg/",
-      "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/"
+      "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/",
+      "permanent": true
     },
     {
       "source": "/speakers-reg/:match*",
-      "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/:match*"
+      "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/:match*",
+      "permanent": true
     },
-    { "source": "/", "destination": "https://www.openmesh.network/" },
+    {
+      "source": "/",
+      "destination": "https://www.openmesh.network/",
+      "permanent": true
+    },
     {
       "source": "/:match*",
-      "destination": "https://www.openmesh.network/:match*"
+      "destination": "https://www.openmesh.network/:match*",
+      "permanent": true
     }
   ]
 }
