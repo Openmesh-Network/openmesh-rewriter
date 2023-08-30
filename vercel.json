@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/openrd/",
+      "source": "/openrd",
       "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/"
     },
     {
@@ -9,25 +9,25 @@
       "destination": "https://l3a-website-3bd9khlzv-brunolsantos152-gmailcom.vercel.app/:match*"
     },
     {
-      "source": "/oen/",
+      "source": "/oen",
       "destination": "https://www.weirdband.io/"
     },
     {
       "source": "/oen/:match*",
       "destination": "https://www.weirdband.io/:match*"
     },
-    { "source": "/join/", "destination": "https://openvision.info/" },
+    { "source": "/join", "destination": "https://openvision.info/" },
     {
       "source": "/join/:match*",
       "destination": "https://openvision.info/:match*"
     },
     {
-      "source": "/speakers-reg/",
-      "destination": "https://speakers-reg.vercel.app/"
+      "source": "/speakers-reg",
+      "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/"
     },
     {
       "source": "/speakers-reg/:match*",
-      "destination": "https://speakers-reg.vercel.app/:match*"
+      "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/:match*"
     },
     { "source": "/", "destination": "https://www.openmesh.network/" },
     {
