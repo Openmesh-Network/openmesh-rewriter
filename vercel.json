@@ -10,11 +10,11 @@
     },
     {
       "source": "/oen/",
-      "destination": "https://openmesh-expert-frontend.vercel.app/oen/"
+      "destination": "https://openmesh-expert-frontend-prod.vercel.app/"
     },
     {
       "source": "/oen/:match*",
-      "destination": "https://openmesh-expert-frontend.vercel.app/oen/:match*"
+      "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"
     },
     {
       "source": "/join/",
@@ -26,11 +26,11 @@
     },
     {
       "source": "/speakers-reg/",
-      "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/"
+      "destination": "https://openmesh-expert-frontend-prod.vercel.app/"
     },
     {
       "source": "/speakers-reg/:match*",
-      "destination": "https://speakers-giwjdv8t2-brunolsantos152-gmailcom.vercel.app/:match*"
+      "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"
     },
     {
       "source": "/",
