@@ -17,6 +17,14 @@
       "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"
     },
     {
+      "source": "/open_accounting/",
+      "destination": "https://openmesh-accounting-frontend-prod.vercel.app/"
+    },
+    {
+      "source": "/open_accounting/:match*",
+      "destination": "https://openmesh-accounting-frontend-prod.vercel.app/:match*"
+    },
+    {
       "source": "/join/",
       "destination": "https://l3a-ecosystem-prod.vercel.app/"
     },
