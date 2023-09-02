@@ -9,11 +9,11 @@
       "destination": "https://deeplink-frontend-2-prod.vercel.app/:match*"
     },
     {
-      "source": "/oen/",
+      "source": "/open/",
       "destination": "https://openmesh-expert-frontend-prod.vercel.app/"
     },
     {
-      "source": "/oen/:match*",
+      "source": "/open/:match*",
       "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"
     },
     {
