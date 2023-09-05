@@ -17,6 +17,14 @@
       "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"
     },
     {
+      "source": "/test/",
+      "destination": "https://brunos-dapper-site-f5837e.webflow.io/"
+    },
+    {
+      "source": "/test/:match*",
+      "destination": "https://brunos-dapper-site-f5837e.webflow.io/:match*"
+    },
+    {
       "source": "/open_accounting/",
       "destination": "https://openmesh-accounting-frontend-prod.vercel.app/"
     },
