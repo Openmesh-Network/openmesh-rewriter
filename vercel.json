@@ -2,11 +2,11 @@
   "rewrites": [
     {
       "source": "/openrd/",
-      "destination": "https://deeplink-frontend-2-prod.vercel.app/"
+      "destination": "https://deeplink-openrd.vercel.app/"
     },
     {
       "source": "/openrd/:match*",
-      "destination": "https://deeplink-frontend-2-prod.vercel.app/:match*"
+      "destination": "https://deeplink-openrd.vercel.app/:match*"
     },
     {
       "source": "/oen/",
