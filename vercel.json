@@ -74,11 +74,11 @@
     },
     {
       "source": "/",
-      "destination": "https://www.openmesh.network/"
+      "destination": "https://l3a-protocol.webflow.io/"
     },
     {
       "source": "/:match*",
-      "destination": "https://www.openmesh.network/:match*"
+      "destination": "https://l3a-protocol.webflow.io/:match*"
     }
   ]
 }
