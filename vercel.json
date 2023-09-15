@@ -10,11 +10,11 @@
     },
     {
       "source": "/oen/",
-      "destination": "https://openmesh-expert-frontend-prod.vercel.app/"
+      "destination": "https://openmesh-expert-frontend.vercel.app/"
     },
     {
       "source": "/oen/:match*",
-      "destination": "https://openmesh-expert-frontend-prod.vercel.app/:match*"
+      "destination": "https://openmesh-expert-frontend.vercel.app/:match*"
     },
     {
       "source": "/test/",
@@ -25,11 +25,11 @@
       "destination": "https://brunos-dapper-site-f5837e.webflow.io/:match*"
     },
     {
-      "source": "/open_accounting/",
+      "source": "/open-accounting/",
       "destination": "https://openmesh-accounting-frontend-prod.vercel.app/"
     },
     {
-      "source": "/open_accounting/:match*",
+      "source": "/open-accounting/:match*",
       "destination": "https://openmesh-accounting-frontend-prod.vercel.app/:match*"
     },
     {
@@ -47,6 +47,30 @@
     {
       "source": "/speakers_registration/:match*",
       "destination": "https://speakers-reg-prod.vercel.app/:match*"
+    },
+    {
+      "source": "/academy/",
+      "destination": "https://openmesh-expert-academy.vercel.app/"
+    },
+    {
+      "source": "/academy/:match*",
+      "destination": "https://openmesh-expert-academy.vercel.app/:match*"
+    },
+    {
+      "source": "/community/",
+      "destination": "https://openmesh-expert-community.vercel.app/"
+    },
+    {
+      "source": "/community/:match*",
+      "destination": "https://openmesh-expert-community.vercel.app/:match*"
+    },
+    {
+      "source": "/about/",
+      "destination": "https://openmesh-expert-landing-page.vercel.app/"
+    },
+    {
+      "source": "/about/:match*",
+      "destination": "https://openmesh-expert-landing-page.vercel.app/:match*"
     },
     {
       "source": "/",
