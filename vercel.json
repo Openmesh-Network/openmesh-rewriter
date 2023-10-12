@@ -13,6 +13,14 @@
       "destination": "https://openmesh-expert-frontend.vercel.app/"
     },
     {
+      "source": "/oen/about/",
+      "destination": "https://openmesh-expert-landing-page.vercel.app/"
+    },
+    {
+      "source": "/oen/about/:match*",
+      "destination": "https://openmesh-expert-landing-page.vercel.app/:match*"
+    },
+    {
       "source": "/oen/:match*",
       "destination": "https://openmesh-expert-frontend.vercel.app/:match*"
     },
@@ -62,6 +70,14 @@
     },
     {
       "source": "/community/:match*",
+      "destination": "https://openmesh-expert-community.vercel.app/:match*"
+    },
+    {
+      "source": "/oec/",
+      "destination": "https://openmesh-expert-community.vercel.app/"
+    },
+    {
+      "source": "/oec/:match*",
       "destination": "https://openmesh-expert-community.vercel.app/:match*"
     },
     {
