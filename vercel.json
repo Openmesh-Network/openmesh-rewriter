@@ -81,14 +81,6 @@
       "destination": "https://openmesh-expert-community.vercel.app/:match*"
     },
     {
-      "source": "/about/",
-      "destination": "https://openmesh-expert-landing-page.vercel.app/"
-    },
-    {
-      "source": "/about/:match*",
-      "destination": "https://openmesh-expert-landing-page.vercel.app/:match*"
-    },
-    {
       "source": "/",
       "destination": "https://l3a-protocol.webflow.io/"
     },
