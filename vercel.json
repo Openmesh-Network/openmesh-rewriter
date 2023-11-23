@@ -1,5 +1,13 @@
 {
   "rewrites": [
+        {
+      "source": "/xnode/",
+      "destination": "https://openmesh-xnode.vercel.app/"
+    },
+    {
+      "source": "/xnode/:match*",
+      "destination": "https://openmesh-xnode.vercel.app/:match*"
+    },
     {
       "source": "/openrd/",
       "destination": "https://deeplink-openrd.vercel.app/"
