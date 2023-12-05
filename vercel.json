@@ -90,11 +90,11 @@
     },
     {
       "source": "/",
-      "destination": "https://l3a-protocol.webflow.io/"
+      "destination": "https://awesome-architecture-821331.framer.app/"
     },
     {
       "source": "/:match*",
-      "destination": "https://l3a-protocol.webflow.io/:match*"
+      "destination": "https://awesome-architecture-821331.framer.app/:match*"
     }
   ]
 }
