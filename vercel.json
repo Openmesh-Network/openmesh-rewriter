@@ -88,6 +88,14 @@
       "source": "/oec/:match*",
       "destination": "https://openmesh-expert-community.vercel.app/:match*"
     },
+        {
+      "source": "/xnode-cost/",
+      "destination": "https://openmesh-xnode-cost.vercel.app/"
+    },
+    {
+      "source": "/xnode-cost/:match*",
+      "destination": "https://openmesh-xnode-cost.vercel.app/:match*"
+    },
     {
       "source": "/",
       "destination": "https://awesome-architecture-821331.framer.app/"
