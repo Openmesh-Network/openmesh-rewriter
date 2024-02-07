@@ -88,13 +88,21 @@
       "source": "/oec/:match*",
       "destination": "https://openmesh-expert-community.vercel.app/:match*"
     },
-        {
+    {
       "source": "/xnode-cost/",
       "destination": "https://openmesh-xnode-cost.vercel.app/"
     },
     {
       "source": "/xnode-cost/:match*",
       "destination": "https://openmesh-xnode-cost.vercel.app/:match*"
+    },
+    {
+      "source": "/pythia/",
+      "destination": "https://openmesh-pythia.vercel.app/"
+    },
+    {
+      "source": "/pythia/:match*",
+      "destination": "https://openmesh-pythia.vercel.app/:match*"
     },
     {
       "source": "/",
