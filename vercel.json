@@ -90,11 +90,11 @@
     },
     {
       "source": "/xnode-cost/",
-      "destination": "https://openmesh-xnode-cost.vercel.app/"
+      "destination": "https://openmesh-xnode-costfeat.vercel.app/"
     },
     {
       "source": "/xnode-cost/:match*",
-      "destination": "https://openmesh-xnode-cost.vercel.app/:match*"
+      "destination": "https://openmesh-xnode-costfeat.vercel.app/:match*"
     },
     {
       "source": "/pythia/",
