@@ -2,11 +2,11 @@
   "rewrites": [
         {
       "source": "/xnode/",
-      "destination": "https://openmesh-xnode.vercel.app/"
+      "destination": "https://openmesh-xnode.vercel.app/xnode/"
     },
     {
       "source": "/xnode/:match*",
-      "destination": "https://openmesh-xnode.vercel.app/:match*"
+      "destination": "https://openmesh-xnode.vercel.app/xnode/:match*"
     },
     {
       "source": "/openrd/",
