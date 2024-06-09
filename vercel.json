@@ -2,7 +2,7 @@
   "rewrites": [
         {
       "source": "/xnode/",
-      "destination": "https://openmesh-xnode.vercel.app/xnode/"
+      "destination": "https://openmesh-xnode.vercel.app/xnode"
     },
     {
       "source": "/xnode/:match*",
