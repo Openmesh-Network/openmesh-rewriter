@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/club",
-      "destination": "http://45.32.243.35"
+      "source": "/singularitynet",
+      "destination": "https://singularitynet.openmesh.network"
     },
 
     {
