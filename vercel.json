@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/club",
-      "destination": "https://xnode.club"
+      "destination": "http://45.32.243.35"
     },
 
     {
