@@ -1,6 +1,11 @@
 {
   "rewrites": [
     {
+      "source": "/club",
+      "destination": "https://xnode.club"
+    },
+
+    {
       "source": "/xnode",
       "destination": "https://openmesh-xnode.vercel.app/xnode"
     },
