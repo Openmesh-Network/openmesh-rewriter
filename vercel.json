@@ -4,7 +4,6 @@
       "source": "/singularitynet",
       "destination": "https://singularitynet.openmesh.network"
     },
-
     {
       "source": "/xnode",
       "destination": "https://openmesh-xnode.vercel.app/xnode"
@@ -40,22 +39,6 @@
     {
       "source": "/oen/:match*",
       "destination": "https://openmesh-expert-frontend.vercel.app/:match*"
-    },
-    {
-      "source": "/test/",
-      "destination": "https://brunos-dapper-site-f5837e.webflow.io/"
-    },
-    {
-      "source": "/test/:match*",
-      "destination": "https://brunos-dapper-site-f5837e.webflow.io/:match*"
-    },
-    {
-      "source": "/open-accounting/",
-      "destination": "https://openmesh-accounting-frontend-prod.vercel.app/"
-    },
-    {
-      "source": "/open-accounting/:match*",
-      "destination": "https://openmesh-accounting-frontend-prod.vercel.app/:match*"
     },
     {
       "source": "/join/",
