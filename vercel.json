@@ -1,10 +1,6 @@
 {
   "rewrites": [
     {
-      "source": "/singularitynet",
-      "destination": "https://singularitynet.openmesh.network"
-    },
-    {
       "source": "/xnode",
       "destination": "https://openmesh-xnode.vercel.app/xnode"
     },
@@ -15,14 +11,6 @@
     {
       "source": "/xnode/:match*",
       "destination": "https://openmesh-xnode.vercel.app/xnode/:match*"
-    },
-    {
-      "source": "/openrd/",
-      "destination": "https://deeplink-openrd.vercel.app/"
-    },
-    {
-      "source": "/openrd/:match*",
-      "destination": "https://deeplink-openrd.vercel.app/:match*"
     },
     {
       "source": "/oen/",
@@ -49,14 +37,6 @@
       "destination": "https://l3a-ecosystem-prod.vercel.app/:match*"
     },
     {
-      "source": "/speakers_registration/",
-      "destination": "https://speakers-reg-prod.vercel.app//"
-    },
-    {
-      "source": "/speakers_registration/:match*",
-      "destination": "https://speakers-reg-prod.vercel.app/:match*"
-    },
-    {
       "source": "/academy/",
       "destination": "https://openmesh-expert-academy.vercel.app/"
     },
@@ -79,14 +59,6 @@
     {
       "source": "/oec/:match*",
       "destination": "https://openmesh-expert-community.vercel.app/:match*"
-    },
-    {
-      "source": "/xnode-cost/",
-      "destination": "https://openmesh-xnode-costfeat.vercel.app/"
-    },
-    {
-      "source": "/xnode-cost/:match*",
-      "destination": "https://openmesh-xnode-costfeat.vercel.app/:match*"
     },
     {
       "source": "/pythia/",
