@@ -70,11 +70,11 @@
     },
     {
       "source": "/",
-      "destination": "https://awesome-architecture-821331.framer.app/"
+      "destination": "https://openmesh-network.framer.website/"
     },
     {
       "source": "/:match*",
-      "destination": "https://awesome-architecture-821331.framer.app/:match*"
+      "destination": "https://openmesh-network.framer.website/:match*"
     }
   ]
 }
