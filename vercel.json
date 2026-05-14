@@ -70,11 +70,11 @@
     },
     {
       "source": "/",
-      "destination": "https://openmesh-network.framer.website/"
+      "destination": "https://openmesh-website-2026.vercel.app/"
     },
     {
       "source": "/:match*",
-      "destination": "https://openmesh-network.framer.website/:match*"
+      "destination": "https://openmesh-website-2026.vercel.app/:match*"
     }
   ]
 }
